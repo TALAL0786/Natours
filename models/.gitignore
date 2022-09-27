@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/Images
+package-lock.json
+/txtfiles
+/log
